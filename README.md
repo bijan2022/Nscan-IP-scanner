@@ -21,16 +21,18 @@ python3 dashboard.py
 if installed on kali terminal
 ```bash
 # to install from github
-git clone https://github.com/bijan2022/nscan-analyser
+git clone https://github.com/bijan2022/Nscan-IP-scanner.git
 # go Downloads or Desktop or any other other extraction area.
 cd Downloads
 # to find the zip file
 ls
 # to extract the file
 unzip Network_scaner.zip
+cd Nscan-IP-scanner
 cd Network_scaner
+cd N-scan
 # run the project.
-sudo python3 dashboard.py
+python3 dashboard.py
 ```
 you can save the results into a file by choosing the save results option.
 # video guide
